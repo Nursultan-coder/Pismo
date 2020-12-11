@@ -1,6 +1,6 @@
 @charset "UTF-8";
 /*Обнуление*/
-@import url(https://fonts.googleapis.com/css?family=Lato:400,300,700,900);
+@import url('https://fonts.googleapis.com/css2?family=Averia+Serif+Libre:wght@700&display=swap');
 * {
   padding: 0;
   margin: 0;
@@ -81,3 +81,9 @@ button {
   border: 2px solid #000;
   font-size: 18px;
 }
+ h1 {
+  font-family: 'Averia Serif Libre', cursive;
+  font-size: 20px;
+  text-align: center;
+  margin: 10px;
+ }
